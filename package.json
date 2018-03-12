@@ -1,0 +1,27 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0",
+    "cors":"*",
+    "mongodb":"*",
+    "mongoose":"*",
+    "body-parser":"*",
+    "morgan":"*",
+    "bing.search":"*",
+    "node-bing-api":"*",
+    "google-images":"*",
+    "node-google-image-search":"*",
+    "google-ims":"*"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
